@@ -2,8 +2,7 @@
 Ultimate Compression for Large Language Models via Meta Networks
 
 ## Access
-paper: https://arxiv.org/pdf/2511.17637    
-acceped by AAAI 2026.
+paper: https://arxiv.org/pdf/2511.17637 (acceped by AAAI 2026)
 ## Environment
 ```
 pip install -r requirements
