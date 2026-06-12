@@ -31,4 +31,4 @@ wikitext-2 / C4 for ppl .
 Thanks for the inspiration by https://github.com/nadavbh12/VQ-VAE/ .  
 
 ## Citation
-To do
+ @article{Tian_2026, title={PocketLLM: Ultimate Compression of Large Language Models via Meta Networks}, volume={40}, ISSN={2159-5399}, url={http://dx.doi.org/10.1609/aaai.v40i39.40610}, DOI={10.1609/aaai.v40i39.40610}, number={39}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, publisher={Association for the Advancement of Artificial Intelligence (AAAI)}, author={Tian, Ye and Wang, Chengcheng and Han, Jing and Tang, Yehui and Han, Kai}, year={2026}, month=Mar, pages={33250–33258} }
